@@ -1,4 +1,4 @@
-"use strict";
+
 
 /* Author: Hailee | Date: Dec 4, 2025
    Script to generate events table for Lyman Hall Theater
@@ -38,3 +38,4 @@ tableHTML += "</table>";
 
 // Insert into page
 document.getElementById("eventList").innerHTML = tableHTML;
+
