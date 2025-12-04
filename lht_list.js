@@ -9,6 +9,7 @@ let eventDates = [
   "October 5, 2021 19:00",
   "October 6, 2021 19:00",
   "October 7, 2021 19:00",
+  "October 8, 2021 19:00",
   "October 9, 2021 19:00",
   "October 10, 2021 11:00",
   "October 11, 2021 19:00",
@@ -24,10 +25,11 @@ let eventDescriptions = [
   "San Diego Blues",
   "Cabaret",
   "Cabaret",
+  "Cabaret",
   "Classics Brunch",
   "Classic Cinema: Safety First",
   "Exit Stage Left",
-  "Antonio Perez"
+  "Artenio Perez"
 ];
 
 let eventPrices = [
@@ -36,6 +38,7 @@ let eventPrices = [
   "$12",
   "$18/$32",
   "$24/$36",
+  "$48/$64/$88",
   "$48/$64/$88",
   "$48/$64/$88",
   "$12",
